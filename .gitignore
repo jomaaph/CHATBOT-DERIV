@@ -1,0 +1,20 @@
+# Arquivos de ambiente e credenciais
+.env
+
+# Arquivos de resultados e logs
+resultados.csv
+*.log
+
+# Arquivos temporários e caches
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Pasta de virtualenv
+venv/
+.env/
